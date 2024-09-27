@@ -2,7 +2,8 @@
 pragma solidity ^0.8.13;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
+import "@openzep
+'pelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
 import { Verification } from "./Verification.sol";
 
 /// @title AI Arena Mint Pass
